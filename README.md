@@ -18,6 +18,8 @@ You can also follow me on [instagram](https://www.instagram.com/luiz.fp/).
 That's it!
 Bugs don't go live by themselves.
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=luizfp&show_icons=true&locale=en" alt="luizfp" /></p>
+
 <!--
 **luizfp/luizfp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
